@@ -1,9 +1,9 @@
 
-let increment = document.getElementById("increbtn")
+let increment = document.getElementById('increbtn')
 
 let count = 0
 
-let countEl = document.getElementById("count")
+let countEl = document.getElementById('count')
 
 function incre(){
     count = count + 1
